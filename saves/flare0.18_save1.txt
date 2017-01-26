@@ -1,0 +1,15 @@
+name=Nikolas
+permadeath=0
+option=male,head_short,male03
+class=Brute
+xp=233
+build=2,1,1,1
+equipped_quantity=0,0,1,0,1,1,1,0,0,0
+equipped=0,0,32,0,64,66,67,0,0,0
+carried_quantity=66,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+carried=10,66,32,32,32,32,64,32,32,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+spawn=river_encampment.txt,51,61
+actionbar=0,0,0,0,0,0,0,0,0,0,20,5
+transformed=
+powers=5,20
+campaign=martigan_init

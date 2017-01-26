@@ -1,0 +1,15 @@
+name=Delrek
+permadeath=0
+option=male,head_short,male01
+class=Wanderer
+xp=11
+build=1,1,1,1
+equipped_quantity=0,0,0,0,1,1,1,0,0,0
+equipped=0,0,0,0,64,66,67,0,0,0
+carried_quantity=50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+carried=10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+spawn=frontier_plains.txt,248,186
+actionbar=0,0,0,0,0,0,0,0,0,0,0,0
+transformed=
+powers=
+campaign=
